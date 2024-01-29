@@ -21,5 +21,5 @@ package naveen
 import "fmt"
 
 func Hello() {
-	fmt.Println("I'm Naveen V1")
+	fmt.Println("I'm Naveen V2")
 }
